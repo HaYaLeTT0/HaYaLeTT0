@@ -6,7 +6,7 @@ If you need help, you can reach me through my social media accounts.
 
 Skills:  /HTML / CSS / PYTHON / JS / JAVA / C+ / C / PHP / BDFD
 
-- 🔭 I’m currently working on https://www.mypinkbot.com/  
+- 🔭 I’m currently working on 
 - 💬 Ask me about Ask me about React HTML  CSS  PYTHON  JS JAVA C+  C PHP  BDFD 
 
 
